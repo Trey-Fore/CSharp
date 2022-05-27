@@ -1,0 +1,10 @@
+C:\Users\unloa\source\repos\Heads or tails\Heads or tails\bin\Debug\Heads or tails.exe.config
+C:\Users\unloa\source\repos\Heads or tails\Heads or tails\bin\Debug\Heads or tails.exe
+C:\Users\unloa\source\repos\Heads or tails\Heads or tails\bin\Debug\Heads or tails.pdb
+C:\Users\unloa\source\repos\Heads or tails\Heads or tails\obj\Debug\Heads or tails.csprojAssemblyReference.cache
+C:\Users\unloa\source\repos\Heads or tails\Heads or tails\obj\Debug\Heads_or_tails.Form1.resources
+C:\Users\unloa\source\repos\Heads or tails\Heads or tails\obj\Debug\Heads_or_tails.Properties.Resources.resources
+C:\Users\unloa\source\repos\Heads or tails\Heads or tails\obj\Debug\Heads or tails.csproj.GenerateResource.cache
+C:\Users\unloa\source\repos\Heads or tails\Heads or tails\obj\Debug\Heads or tails.csproj.CoreCompileInputs.cache
+C:\Users\unloa\source\repos\Heads or tails\Heads or tails\obj\Debug\Heads or tails.exe
+C:\Users\unloa\source\repos\Heads or tails\Heads or tails\obj\Debug\Heads or tails.pdb
