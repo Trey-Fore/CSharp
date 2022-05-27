@@ -1,0 +1,10 @@
+C:\Users\unloa\source\repos\Finalcodeproblemcsharp\Finalcodeproblemcsharp\bin\Debug\Finalcodeproblemcsharp.exe.config
+C:\Users\unloa\source\repos\Finalcodeproblemcsharp\Finalcodeproblemcsharp\bin\Debug\Finalcodeproblemcsharp.exe
+C:\Users\unloa\source\repos\Finalcodeproblemcsharp\Finalcodeproblemcsharp\bin\Debug\Finalcodeproblemcsharp.pdb
+C:\Users\unloa\source\repos\Finalcodeproblemcsharp\Finalcodeproblemcsharp\obj\Debug\Finalcodeproblemcsharp.csprojAssemblyReference.cache
+C:\Users\unloa\source\repos\Finalcodeproblemcsharp\Finalcodeproblemcsharp\obj\Debug\Finalcodeproblemcsharp.Form1.resources
+C:\Users\unloa\source\repos\Finalcodeproblemcsharp\Finalcodeproblemcsharp\obj\Debug\Finalcodeproblemcsharp.Properties.Resources.resources
+C:\Users\unloa\source\repos\Finalcodeproblemcsharp\Finalcodeproblemcsharp\obj\Debug\Finalcodeproblemcsharp.csproj.GenerateResource.cache
+C:\Users\unloa\source\repos\Finalcodeproblemcsharp\Finalcodeproblemcsharp\obj\Debug\Finalcodeproblemcsharp.csproj.CoreCompileInputs.cache
+C:\Users\unloa\source\repos\Finalcodeproblemcsharp\Finalcodeproblemcsharp\obj\Debug\Finalcodeproblemcsharp.exe
+C:\Users\unloa\source\repos\Finalcodeproblemcsharp\Finalcodeproblemcsharp\obj\Debug\Finalcodeproblemcsharp.pdb

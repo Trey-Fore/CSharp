@@ -1,0 +1,10 @@
+C:\Users\unloa\source\repos\EnumCsharp\EnumCsharp\bin\Debug\EnumCsharp.exe.config
+C:\Users\unloa\source\repos\EnumCsharp\EnumCsharp\bin\Debug\EnumCsharp.exe
+C:\Users\unloa\source\repos\EnumCsharp\EnumCsharp\bin\Debug\EnumCsharp.pdb
+C:\Users\unloa\source\repos\EnumCsharp\EnumCsharp\obj\Debug\EnumCsharp.csprojAssemblyReference.cache
+C:\Users\unloa\source\repos\EnumCsharp\EnumCsharp\obj\Debug\EnumCsharp.Form1.resources
+C:\Users\unloa\source\repos\EnumCsharp\EnumCsharp\obj\Debug\EnumCsharp.Properties.Resources.resources
+C:\Users\unloa\source\repos\EnumCsharp\EnumCsharp\obj\Debug\EnumCsharp.csproj.GenerateResource.cache
+C:\Users\unloa\source\repos\EnumCsharp\EnumCsharp\obj\Debug\EnumCsharp.csproj.CoreCompileInputs.cache
+C:\Users\unloa\source\repos\EnumCsharp\EnumCsharp\obj\Debug\EnumCsharp.exe
+C:\Users\unloa\source\repos\EnumCsharp\EnumCsharp\obj\Debug\EnumCsharp.pdb
