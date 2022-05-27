@@ -1,0 +1,10 @@
+C:\Users\unloa\source\repos\Hospital Charges csharp\Hospital Charges csharp\bin\Debug\Hospital Charges csharp.exe.config
+C:\Users\unloa\source\repos\Hospital Charges csharp\Hospital Charges csharp\bin\Debug\Hospital Charges csharp.exe
+C:\Users\unloa\source\repos\Hospital Charges csharp\Hospital Charges csharp\bin\Debug\Hospital Charges csharp.pdb
+C:\Users\unloa\source\repos\Hospital Charges csharp\Hospital Charges csharp\obj\Debug\Hospital_Charges_csharp.Form1.resources
+C:\Users\unloa\source\repos\Hospital Charges csharp\Hospital Charges csharp\obj\Debug\Hospital_Charges_csharp.Properties.Resources.resources
+C:\Users\unloa\source\repos\Hospital Charges csharp\Hospital Charges csharp\obj\Debug\Hospital Charges csharp.csproj.GenerateResource.cache
+C:\Users\unloa\source\repos\Hospital Charges csharp\Hospital Charges csharp\obj\Debug\Hospital Charges csharp.csproj.CoreCompileInputs.cache
+C:\Users\unloa\source\repos\Hospital Charges csharp\Hospital Charges csharp\obj\Debug\Hospital Charges csharp.exe
+C:\Users\unloa\source\repos\Hospital Charges csharp\Hospital Charges csharp\obj\Debug\Hospital Charges csharp.pdb
+C:\Users\unloa\source\repos\Hospital Charges csharp\Hospital Charges csharp\obj\Debug\Hospital Charges csharp.csprojAssemblyReference.cache
