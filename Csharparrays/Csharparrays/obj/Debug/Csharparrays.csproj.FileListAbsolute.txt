@@ -1,0 +1,9 @@
+C:\Users\unloa\source\repos\Csharparrays\Csharparrays\bin\Debug\Csharparrays.exe.config
+C:\Users\unloa\source\repos\Csharparrays\Csharparrays\bin\Debug\Csharparrays.exe
+C:\Users\unloa\source\repos\Csharparrays\Csharparrays\bin\Debug\Csharparrays.pdb
+C:\Users\unloa\source\repos\Csharparrays\Csharparrays\obj\Debug\Csharparrays.Form1.resources
+C:\Users\unloa\source\repos\Csharparrays\Csharparrays\obj\Debug\Csharparrays.Properties.Resources.resources
+C:\Users\unloa\source\repos\Csharparrays\Csharparrays\obj\Debug\Csharparrays.csproj.GenerateResource.cache
+C:\Users\unloa\source\repos\Csharparrays\Csharparrays\obj\Debug\Csharparrays.csproj.CoreCompileInputs.cache
+C:\Users\unloa\source\repos\Csharparrays\Csharparrays\obj\Debug\Csharparrays.exe
+C:\Users\unloa\source\repos\Csharparrays\Csharparrays\obj\Debug\Csharparrays.pdb

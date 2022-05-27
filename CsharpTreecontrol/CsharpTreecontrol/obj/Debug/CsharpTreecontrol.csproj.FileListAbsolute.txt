@@ -1,0 +1,10 @@
+C:\Users\unloa\source\repos\CsharpTreecontrol\CsharpTreecontrol\bin\Debug\CsharpTreecontrol.exe.config
+C:\Users\unloa\source\repos\CsharpTreecontrol\CsharpTreecontrol\bin\Debug\CsharpTreecontrol.exe
+C:\Users\unloa\source\repos\CsharpTreecontrol\CsharpTreecontrol\bin\Debug\CsharpTreecontrol.pdb
+C:\Users\unloa\source\repos\CsharpTreecontrol\CsharpTreecontrol\obj\Debug\CsharpTreecontrol.csprojAssemblyReference.cache
+C:\Users\unloa\source\repos\CsharpTreecontrol\CsharpTreecontrol\obj\Debug\CsharpTreecontrol.Form1.resources
+C:\Users\unloa\source\repos\CsharpTreecontrol\CsharpTreecontrol\obj\Debug\CsharpTreecontrol.Properties.Resources.resources
+C:\Users\unloa\source\repos\CsharpTreecontrol\CsharpTreecontrol\obj\Debug\CsharpTreecontrol.csproj.GenerateResource.cache
+C:\Users\unloa\source\repos\CsharpTreecontrol\CsharpTreecontrol\obj\Debug\CsharpTreecontrol.csproj.CoreCompileInputs.cache
+C:\Users\unloa\source\repos\CsharpTreecontrol\CsharpTreecontrol\obj\Debug\CsharpTreecontrol.exe
+C:\Users\unloa\source\repos\CsharpTreecontrol\CsharpTreecontrol\obj\Debug\CsharpTreecontrol.pdb
