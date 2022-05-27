@@ -1,0 +1,10 @@
+C:\Users\unloa\source\repos\GraphicsCsharp\GraphicsCsharp\obj\Debug\GraphicsCsharp.csprojAssemblyReference.cache
+C:\Users\unloa\source\repos\GraphicsCsharp\GraphicsCsharp\obj\Debug\GraphicsCsharp.Form1.resources
+C:\Users\unloa\source\repos\GraphicsCsharp\GraphicsCsharp\obj\Debug\GraphicsCsharp.Properties.Resources.resources
+C:\Users\unloa\source\repos\GraphicsCsharp\GraphicsCsharp\obj\Debug\GraphicsCsharp.csproj.GenerateResource.cache
+C:\Users\unloa\source\repos\GraphicsCsharp\GraphicsCsharp\obj\Debug\GraphicsCsharp.csproj.CoreCompileInputs.cache
+C:\Users\unloa\source\repos\GraphicsCsharp\GraphicsCsharp\bin\Debug\GraphicsCsharp.exe.config
+C:\Users\unloa\source\repos\GraphicsCsharp\GraphicsCsharp\bin\Debug\GraphicsCsharp.exe
+C:\Users\unloa\source\repos\GraphicsCsharp\GraphicsCsharp\bin\Debug\GraphicsCsharp.pdb
+C:\Users\unloa\source\repos\GraphicsCsharp\GraphicsCsharp\obj\Debug\GraphicsCsharp.exe
+C:\Users\unloa\source\repos\GraphicsCsharp\GraphicsCsharp\obj\Debug\GraphicsCsharp.pdb

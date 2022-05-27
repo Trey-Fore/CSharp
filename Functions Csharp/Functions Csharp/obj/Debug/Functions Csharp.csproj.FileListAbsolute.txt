@@ -1,0 +1,10 @@
+C:\Users\unloa\source\repos\Functions Csharp\Functions Csharp\bin\Debug\Functions Csharp.exe.config
+C:\Users\unloa\source\repos\Functions Csharp\Functions Csharp\bin\Debug\Functions Csharp.exe
+C:\Users\unloa\source\repos\Functions Csharp\Functions Csharp\bin\Debug\Functions Csharp.pdb
+C:\Users\unloa\source\repos\Functions Csharp\Functions Csharp\obj\Debug\Functions Csharp.csprojAssemblyReference.cache
+C:\Users\unloa\source\repos\Functions Csharp\Functions Csharp\obj\Debug\Functions_Csharp.Form1.resources
+C:\Users\unloa\source\repos\Functions Csharp\Functions Csharp\obj\Debug\Functions_Csharp.Properties.Resources.resources
+C:\Users\unloa\source\repos\Functions Csharp\Functions Csharp\obj\Debug\Functions Csharp.csproj.GenerateResource.cache
+C:\Users\unloa\source\repos\Functions Csharp\Functions Csharp\obj\Debug\Functions Csharp.csproj.CoreCompileInputs.cache
+C:\Users\unloa\source\repos\Functions Csharp\Functions Csharp\obj\Debug\Functions Csharp.exe
+C:\Users\unloa\source\repos\Functions Csharp\Functions Csharp\obj\Debug\Functions Csharp.pdb

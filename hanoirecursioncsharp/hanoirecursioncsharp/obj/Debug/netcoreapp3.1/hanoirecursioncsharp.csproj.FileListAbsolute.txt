@@ -1,0 +1,13 @@
+C:\Users\unloa\source\repos\hanoirecursioncsharp\hanoirecursioncsharp\bin\Debug\netcoreapp3.1\hanoirecursioncsharp.exe
+C:\Users\unloa\source\repos\hanoirecursioncsharp\hanoirecursioncsharp\bin\Debug\netcoreapp3.1\hanoirecursioncsharp.deps.json
+C:\Users\unloa\source\repos\hanoirecursioncsharp\hanoirecursioncsharp\bin\Debug\netcoreapp3.1\hanoirecursioncsharp.runtimeconfig.json
+C:\Users\unloa\source\repos\hanoirecursioncsharp\hanoirecursioncsharp\bin\Debug\netcoreapp3.1\hanoirecursioncsharp.runtimeconfig.dev.json
+C:\Users\unloa\source\repos\hanoirecursioncsharp\hanoirecursioncsharp\bin\Debug\netcoreapp3.1\hanoirecursioncsharp.dll
+C:\Users\unloa\source\repos\hanoirecursioncsharp\hanoirecursioncsharp\bin\Debug\netcoreapp3.1\hanoirecursioncsharp.pdb
+C:\Users\unloa\source\repos\hanoirecursioncsharp\hanoirecursioncsharp\obj\Debug\netcoreapp3.1\hanoirecursioncsharp.csprojAssemblyReference.cache
+C:\Users\unloa\source\repos\hanoirecursioncsharp\hanoirecursioncsharp\obj\Debug\netcoreapp3.1\hanoirecursioncsharp.AssemblyInfoInputs.cache
+C:\Users\unloa\source\repos\hanoirecursioncsharp\hanoirecursioncsharp\obj\Debug\netcoreapp3.1\hanoirecursioncsharp.AssemblyInfo.cs
+C:\Users\unloa\source\repos\hanoirecursioncsharp\hanoirecursioncsharp\obj\Debug\netcoreapp3.1\hanoirecursioncsharp.csproj.CoreCompileInputs.cache
+C:\Users\unloa\source\repos\hanoirecursioncsharp\hanoirecursioncsharp\obj\Debug\netcoreapp3.1\hanoirecursioncsharp.dll
+C:\Users\unloa\source\repos\hanoirecursioncsharp\hanoirecursioncsharp\obj\Debug\netcoreapp3.1\hanoirecursioncsharp.pdb
+C:\Users\unloa\source\repos\hanoirecursioncsharp\hanoirecursioncsharp\obj\Debug\netcoreapp3.1\hanoirecursioncsharp.genruntimeconfig.cache
