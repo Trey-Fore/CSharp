@@ -1,0 +1,15 @@
+C:\Users\unloa\source\repos\CirclesProblem\CirclesProblem\bin\Debug\net6.0\CirclesProblem.exe
+C:\Users\unloa\source\repos\CirclesProblem\CirclesProblem\bin\Debug\net6.0\CirclesProblem.deps.json
+C:\Users\unloa\source\repos\CirclesProblem\CirclesProblem\bin\Debug\net6.0\CirclesProblem.runtimeconfig.json
+C:\Users\unloa\source\repos\CirclesProblem\CirclesProblem\bin\Debug\net6.0\CirclesProblem.dll
+C:\Users\unloa\source\repos\CirclesProblem\CirclesProblem\bin\Debug\net6.0\CirclesProblem.pdb
+C:\Users\unloa\source\repos\CirclesProblem\CirclesProblem\obj\Debug\net6.0\CirclesProblem.csproj.AssemblyReference.cache
+C:\Users\unloa\source\repos\CirclesProblem\CirclesProblem\obj\Debug\net6.0\CirclesProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\unloa\source\repos\CirclesProblem\CirclesProblem\obj\Debug\net6.0\CirclesProblem.AssemblyInfoInputs.cache
+C:\Users\unloa\source\repos\CirclesProblem\CirclesProblem\obj\Debug\net6.0\CirclesProblem.AssemblyInfo.cs
+C:\Users\unloa\source\repos\CirclesProblem\CirclesProblem\obj\Debug\net6.0\CirclesProblem.csproj.CoreCompileInputs.cache
+C:\Users\unloa\source\repos\CirclesProblem\CirclesProblem\obj\Debug\net6.0\CirclesProblem.dll
+C:\Users\unloa\source\repos\CirclesProblem\CirclesProblem\obj\Debug\net6.0\refint\CirclesProblem.dll
+C:\Users\unloa\source\repos\CirclesProblem\CirclesProblem\obj\Debug\net6.0\CirclesProblem.pdb
+C:\Users\unloa\source\repos\CirclesProblem\CirclesProblem\obj\Debug\net6.0\CirclesProblem.genruntimeconfig.cache
+C:\Users\unloa\source\repos\CirclesProblem\CirclesProblem\obj\Debug\net6.0\ref\CirclesProblem.dll
